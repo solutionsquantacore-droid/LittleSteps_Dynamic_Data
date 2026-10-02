@@ -1,0 +1,90 @@
+[
+  {
+    "wordKey": "cat",
+    "emoji": "🐱"
+  },
+  {
+    "wordKey": "dog",
+    "emoji": "🐶"
+  },
+  {
+    "wordKey": "pig",
+    "emoji": "🐷"
+  },
+  {
+    "wordKey": "fox",
+    "emoji": "🦊"
+  },
+  {
+    "wordKey": "bus",
+    "emoji": "🚌"
+  },
+  {
+    "wordKey": "lion",
+    "emoji": "🦁"
+  },
+  {
+    "wordKey": "frog",
+    "emoji": "🐸"
+  },
+  {
+    "wordKey": "duck",
+    "emoji": "🦆"
+  },
+  {
+    "wordKey": "cow",
+    "emoji": "🐮"
+  },
+  {
+    "wordKey": "apple",
+    "emoji": "🍎"
+  },
+  {
+    "wordKey": "pear",
+    "emoji": "🍐"
+  },
+  {
+    "wordKey": "cherry",
+    "emoji": "🍒"
+  },
+  {
+    "wordKey": "carrot",
+    "emoji": "🥕"
+  },
+  {
+    "wordKey": "tomato",
+    "emoji": "🍅"
+  },
+  {
+    "wordKey": "corn",
+    "emoji": "🌽"
+  },
+  {
+    "wordKey": "potato",
+    "emoji": "🥔"
+  },
+  {
+    "wordKey": "ship",
+    "emoji": "🚢"
+  },
+  {
+    "wordKey": "tree",
+    "emoji": "🌳"
+  },
+  {
+    "wordKey": "rose",
+    "emoji": "🌹"
+  },
+  {
+    "wordKey": "sun",
+    "emoji": "☀️"
+  },
+  {
+    "wordKey": "car",
+    "emoji": "🚗"
+  },
+  {
+    "wordKey": "fish",
+    "emoji": "🐟"
+  }
+]
