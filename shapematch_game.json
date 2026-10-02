@@ -1,0 +1,107 @@
+[
+  {
+    "id": "circle",
+    "nameKey": "circle",
+    "emoji": "🔴",
+    "outline": "⭕",
+    "colorHex": "FFFF5252"
+  },
+  {
+    "id": "square",
+    "nameKey": "square",
+    "emoji": "🟩",
+    "outline": "🔲",
+    "colorHex": "FF4CAF50"
+  },
+  {
+    "id": "triangle",
+    "nameKey": "triangle",
+    "emoji": "🔺",
+    "outline": "⚠️",
+    "colorHex": "FFFFB74D"
+  },
+  {
+    "id": "star",
+    "nameKey": "star",
+    "emoji": "⭐",
+    "outline": "☆",
+    "colorHex": "FFFFEB3B"
+  },
+  {
+    "id": "heart",
+    "nameKey": "heart",
+    "emoji": "❤️",
+    "outline": "♡",
+    "colorHex": "FFE91E63"
+  },
+  {
+    "id": "diamond",
+    "nameKey": "diamond",
+    "emoji": "🔷",
+    "outline": "♢",
+    "colorHex": "FF00BCD4"
+  },
+  {
+    "id": "oval",
+    "nameKey": "oval",
+    "emoji": "🥚",
+    "outline": "🥚",
+    "colorHex": "FF9E9E9E"
+  },
+  {
+    "id": "pentagon",
+    "nameKey": "pentagon",
+    "emoji": "⬠",
+    "outline": "⬠",
+    "colorHex": "FF9C27B0"
+  },
+  {
+    "id": "hexagon",
+    "nameKey": "hexagon",
+    "emoji": "⬡",
+    "outline": "⬡",
+    "colorHex": "FF673AB7"
+  },
+  {
+    "id": "rectangle",
+    "nameKey": "rectangle",
+    "emoji": "▭",
+    "outline": "▯",
+    "colorHex": "FFFF9800"
+  },
+  {
+    "id": "octagon",
+    "nameKey": "octagon",
+    "emoji": "🛑",
+    "outline": "⬢",
+    "colorHex": "FFF44336"
+  },
+  {
+    "id": "cross",
+    "nameKey": "cross",
+    "emoji": "➕",
+    "outline": "✛",
+    "colorHex": "FF795548"
+  },
+  {
+    "id": "arrow",
+    "nameKey": "arrow",
+    "emoji": "➡️",
+    "outline": "⇨",
+    "colorHex": "FF607D8B"
+  },
+  {
+    "id": "moon",
+    "nameKey": "moon",
+    "emoji": "🌙",
+    "outline": "☾",
+    "colorHex": "FFFFC107"
+  },
+  {
+    "id": "cloud",
+    "nameKey": "cloud",
+    "emoji": "☁️",
+    "outline": "☁",
+    "colorHex": "FF03A9F4"
+  }
+]
