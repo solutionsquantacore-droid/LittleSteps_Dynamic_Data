@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "equationString": "8+6=6",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 2,
+    "equationString": "2+9=5",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 3,
+    "equationString": "5+1=8",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 4,
+    "equationString": "9+5=4",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 5,
+    "equationString": "6-7=5",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 6,
+    "equationString": "7-6=2",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 7,
+    "equationString": "8-3=4",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 8,
+    "equationString": "5+9=9",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 9,
+    "equationString": "4-9=5",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 10,
+    "equationString": "1+5=5",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 11,
+    "equationString": "9-4=4",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 12,
+    "equationString": "2+3=6",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 13,
+    "equationString": "8-5=5",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 14,
+    "equationString": "7+2=8",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 15,
+    "equationString": "9-6=2",
+    "movesAllowed": 1,
+    "isMoveType": false
+  },
+  {
+    "id": 16,
+    "equationString": "5+5=8",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 17,
+    "equationString": "3+2=7",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 18,
+    "equationString": "9-5=8",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 19,
+    "equationString": "4+1=6",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 20,
+    "equationString": "8-2=7",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 21,
+    "equationString": "1+6=9",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 22,
+    "equationString": "7-4=5",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 23,
+    "equationString": "5+0=9",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 24,
+    "equationString": "3-9=4",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 25,
+    "equationString": "2+7=8",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 26,
+    "equationString": "8-4=2",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 27,
+    "equationString": "6+5=9",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 28,
+    "equationString": "4-1=1",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 29,
+    "equationString": "9+2=5",
+    "movesAllowed": 1,
+    "isMoveType": true
+  },
+  {
+    "id": 30,
+    "equationString": "1+9=8",
+    "movesAllowed": 1,
+    "isMoveType": true
+  }
+]
